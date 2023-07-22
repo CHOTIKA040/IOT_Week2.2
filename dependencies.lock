@@ -1,0 +1,16 @@
+dependencies:
+  LED_class:
+    component_hash: ffac77e01175db2bbd843b27368ca4878462f72cb23420a24aa82e95f2503fc2
+    source:
+      git: https://github.com/CHOTIKA040/IOT_Week2
+      path: components/LED
+      type: git
+    version: a005fe4fefc3321f10c2d2ea657e22832ee774b6
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.0.2
+manifest_hash: 336eb7b0ae3813f5fe6a1041c0e3149c7b565ba3992d9e19c5f8c92844b363b1
+target: esp32
+version: 1.0.0
